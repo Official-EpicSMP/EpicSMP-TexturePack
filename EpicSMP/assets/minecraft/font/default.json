@@ -1,0 +1,12 @@
+{
+    "providers":[
+       {"type":"bitmap","file":"custom/font/ranks/owner.png","ascent":7,"height":7,"chars":["\u4E01"]},
+       {"type":"bitmap","file":"custom/font/ranks/admin.png","ascent":7,"height":7,"chars":["\u4E02"]},
+       {"type":"bitmap","file":"custom/font/ranks/mod.png","ascent":7,"height":7,"chars":["\u4E03"]},
+       {"type":"bitmap","file":"custom/font/ranks/helper.png","ascent":7,"height":7,"chars":["\u4E04"]},
+       {"type":"bitmap","file":"custom/font/ranks/twitch.png","ascent":7,"height":7,"chars":["\u4E07"]},
+       {"type":"bitmap","file":"custom/font/ranks/youtube.png","ascent":7,"height":7,"chars":["\u4E06"]},
+       {"type":"bitmap","file":"custom/font/ranks/premium.png","ascent":7,"height":7,"chars":["\u4E05"]},
+       {"type":"ttf","file":"minecraft:negative_spaces.ttf","shift":[0.0, 0.0],"size": 10.0,"oversample": 1.0}
+    ]
+}
